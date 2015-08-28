@@ -19,9 +19,6 @@ Command line version of the classic board game, written in Ruby.
 - When capturing an opponent piece is possible, the square is highlighted in red
   ![available_moves]
 
-- The game ends when there are no possible moves for the opponent
-  ![checkmate]
-
 ## To Run:
 1. Download zip [here](http://github.com/kushkp/Chess/archive/master.zip) or click "Download ZIP" in the right sidebar.
 2. Unzip and navigate to the 'chess' folder in the terminal
@@ -30,4 +27,3 @@ Command line version of the classic board game, written in Ruby.
 
 [highlight]: ./docs/initial.png
 [available_moves]: ./docs/capture.png
-[checkmate]: ./docs/gameover.png
