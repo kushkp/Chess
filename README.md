@@ -28,6 +28,6 @@ Command line version of the classic board game, written in Ruby.
 3. Run 'bundle install', then run 'ruby chess.rb'
 
 
-[highlight]: '/docs/initial.png'
-[available_moves]: '/docs/capture.png'
-[checkmate]: '/docs/gameover.png'
+[highlight]: ./docs/initial.png
+[available_moves]: ./docs/capture.png
+[checkmate]: ./docs/gameover.png
